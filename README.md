@@ -1,5 +1,5 @@
 Estoy haciendo pruebas, no me matéis pls.
-I'm doing test for my db class, pls don't kill me.
+I'm doing tests for my db class, pls don't kill me.
 
 
 "# BasesDeDatosETSITGC" 
