@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-03-27T17:42:37.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="zJ6kHNxVBQDSR5fmWdDZ" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-27T17:44:11.595Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:123.0) Gecko/20100101 Firefox/123.0" etag="AT_se7UyVhX8g4qeIePP" version="24.0.7" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1050" dy="558" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="656" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -341,7 +341,7 @@
         <mxCell id="5eaRx1mNosJIo-JPx-Cp-26" value="+ genero_serie: varchar(12)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="5eaRx1mNosJIo-JPx-Cp-25">
           <mxGeometry y="30" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5eaRx1mNosJIo-JPx-Cp-28" value="+ " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="5eaRx1mNosJIo-JPx-Cp-25">
+        <mxCell id="5eaRx1mNosJIo-JPx-Cp-28" value="+VOD:VOD" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="5eaRx1mNosJIo-JPx-Cp-25">
           <mxGeometry y="56" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5eaRx1mNosJIo-JPx-Cp-27" value="+ " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="5eaRx1mNosJIo-JPx-Cp-25">
@@ -358,7 +358,7 @@
         <mxCell id="5eaRx1mNosJIo-JPx-Cp-34" value="+genero_peli: varchar(12)" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="5eaRx1mNosJIo-JPx-Cp-33">
           <mxGeometry y="30" width="160" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="5eaRx1mNosJIo-JPx-Cp-35" value="+ " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="5eaRx1mNosJIo-JPx-Cp-33">
+        <mxCell id="5eaRx1mNosJIo-JPx-Cp-35" value="+VOD:VOD" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="5eaRx1mNosJIo-JPx-Cp-33">
           <mxGeometry y="56" width="160" height="26" as="geometry" />
         </mxCell>
         <mxCell id="5eaRx1mNosJIo-JPx-Cp-36" value="+ " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rounded=0;shadow=0;html=0;" vertex="1" parent="5eaRx1mNosJIo-JPx-Cp-33">
