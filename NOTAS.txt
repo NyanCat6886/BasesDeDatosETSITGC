@@ -1,0 +1,7 @@
+NOTAS:
+----------------------------------------------------
+
+---> cond_access puede ser pk en cliente?? o clave candidata?
+---> en ese caso, se puede usar una enumeration table para definir el atributo a parte??
+---> cómo se puede relaccionar la enumeration table de cond_access y los atributos de dicha tabla con la entidad de cliente??
+---> preguntar si va bien el diagrama UML o es una absolute crap
