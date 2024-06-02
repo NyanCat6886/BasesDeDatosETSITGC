@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-02T15:40:37.515Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="N5EtO7AYle3g-qk2ux4t" version="24.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-02T15:41:45.028Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="LYegzSbcpCk0UiKiNH-c" version="24.2.3" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1500" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
+    <mxGraphModel dx="1167" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1200" pageHeight="1920" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -213,7 +213,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="WZsIv0NBo7nHh3uoDmfm-55" value="+ fecha_entr: date&#xa;+ fecha_salid: date&#xa;" style="rounded=0;fillColor=none;align=left;verticalAlign=top;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="690" y="229" width="160" height="41" as="geometry" />
+          <mxGeometry x="670" y="229" width="160" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
